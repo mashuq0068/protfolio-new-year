@@ -1,0 +1,257 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items:right;
+    justify-content:center;
+    background-image:url(new-year-new-me/images/banner/banner2.png) ;
+    width: 95vw;
+    height: 809px;
+    padding-right: 30px;
+}
+*{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Work Sans', sans-serif;
+}
+.h3{
+    color:  #151414;
+text-align: right;
+font-family: Work Sans;
+font-size:65px;
+font-style: normal;
+font-weight: 700;
+
+}
+.line1{
+    color: var(--dark-02, #444343);
+text-align: right;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+margin-top: 10px;
+}
+/* .line2{
+    color: #FFF;
+text-align: right;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+width: 160px;
+height: 64px;
+flex-shrink: 0;
+} */
+.btn-primary{
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #F15B22;
+    text-align: center;
+    border: none;
+
+}
+.line2{
+    text-align: right;
+}
+.container-picture{
+   
+}
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-picture{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   gap: 20px;
+   height: 90vh;
+   width: 100vw;
+  
+}
+.text{
+    height: auto;
+    width:40vw;
+    
+}
+.text > ul li{
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.h31{
+    color: var(--dark-01, #151414);
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.text-p{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.container1{
+    
+    
+}
+.myplans{
+    text-align: center;
+    color: var(--dark-01, #151414);
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.img2{
+    width: 92.958px;
+height: 92.958px;
+flex-shrink: 0;
+}
+.main-container{
+    margin-top: 50pxpx;
+    display: flex;
+    justify-content: space-between;
+}
+.container1{
+  
+   padding: 30px 200px;
+
+}
+.hand{
+width: 700px;
+height: 300px;
+flex-shrink: 0;
+background-image: url(new-year-new-me/images/gradient2.png), url(new-year-new-me/images/watch.png);
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin: 40px 160px;
+padding-left: 50px;
+
+ 
+}
+.h31{
+    color: var(--dark-01, #151414);
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.text-p{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.h3another{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.btn-primary-other{
+    width: 160px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FFF;
+color: #F15B22;
+text-align: center;
+font-family: Work Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+border: none;
+
+}
+.main-footer{
+    background-color:black;
+    height: 550px;
+    width: 100vw;
+    color: #f8f8f8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.icon{
+    display: flex;
+    gap: 10px;
+    
+}
+p > input[type="email"]{
+    padding: 10px;
+    background-color: black;
+    color: #f8f8f8;
+    border-radius: 5px;
+    border: #f8f8f8;
+}
+.input{
+    border:5px white;
+}
+
+.primary{
+    width: 100px;
+    height: 34px;
+}
+#input{
+    border:1px solid white;
+}
+.img{
+    display: inline-block;
+    width: 350px; /* Adjust the width and height to your desired circle size */
+    height: 350px;
+    border-radius: 50%;
+    background-color: rgba(241, 91, 34, 0.20); /* Replace with your desired background color */
+    overflow: hidden;
+}
+.img img{
+    display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+
+
